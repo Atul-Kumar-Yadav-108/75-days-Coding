@@ -29,7 +29,6 @@ function maxProductSubarray(arr){
     return res;
 }
 
-
 // let nums = [2,3,-2,4];
 // let nums = [-2,0,-1];
 // let nums = [-2, 6, -3, -10, 0, 2];
